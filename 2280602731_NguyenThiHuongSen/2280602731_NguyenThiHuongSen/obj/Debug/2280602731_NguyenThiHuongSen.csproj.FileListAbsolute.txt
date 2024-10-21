@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\bin\Debug\2280602731_NguyenThiHuongSen.exe.config
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\bin\Debug\2280602731_NguyenThiHuongSen.exe
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\bin\Debug\2280602731_NguyenThiHuongSen.pdb
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\2280602731_NguyenThiHuongSen.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\_2280602731_NguyenThiHuongSen.frmQLTTBN.resources
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\_2280602731_NguyenThiHuongSen.Properties.Resources.resources
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\2280602731_NguyenThiHuongSen.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\2280602731_NguyenThiHuongSen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\22806027.72D4F2A2.Up2Date
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\2280602731_NguyenThiHuongSen.exe
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\2280602731_NguyenThiHuongSen.pdb
+C:\Users\Administrator\source\repos\2280602731_NguyenThiHuongSen\2280602731_NguyenThiHuongSen\obj\Debug\_2280602731_NguyenThiHuongSen.frmTruyVet.resources
